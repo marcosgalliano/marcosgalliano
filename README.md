@@ -8,7 +8,6 @@ I am a self-motivated person who loves to learn and explore new technologies. Af
 
 * 🌍  I'm based in Buenos Aires, Argentina
 * ✉️  You can contact me at [marcosgalliano03@gmail.com](mailto:marcosgalliano03@gmail.com)
-* 🚀  I'm currently working on [Fixer Shoes](http://https://dev.fixershoes.com/)
 * 🧠  I'm learning App Development
 
 ### Skills
